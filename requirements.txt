@@ -1,7 +1,7 @@
 # Machine Learning
-scikit-learn==1.4.2
-joblib==1.4.0
+scikit-learn
+joblib
 
 
 # Streamlit app
-streamlit==1.35.0
+streamlit
