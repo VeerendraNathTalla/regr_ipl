@@ -1,7 +1,0 @@
-# Machine Learning
-scikit-learn
-joblib
-
-
-# Streamlit app
-streamlit
